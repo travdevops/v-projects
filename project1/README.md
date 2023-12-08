@@ -340,7 +340,7 @@ Update the hosts configuration file with the Private-IP-Address of the other ser
       # systemctl restart nginx
 
 
-  ### Verify The Website on the Web Broswer
+  ### 5. Verify The Website on the Web Broswer
 
 
 
