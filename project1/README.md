@@ -45,7 +45,7 @@ Provisioning our Different Servers with AWS EC2 Instances. Setup should be done 
 
 - Install Maria DB Package
       
-      # yum install git mariadb-server -y
+      # yum install mariadb-server -y
 
 - Start & enable mariadb-server
 
