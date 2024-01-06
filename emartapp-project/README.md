@@ -1,1 +1,3 @@
-# emart app;ication build with containers (docker-compose)
+## Microservice project with containers
+
+# emart application build with containers (docker-compose)
