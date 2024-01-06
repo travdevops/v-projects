@@ -32,7 +32,7 @@ Provisioning our Different Servers with AWS EC2 Instances. Setup should be done 
 - MariaDB > Memcache > RabbitMQ > Tomcat > Nginx.
 
 
- ### 1. MaARIADB Setup.
+ ### 1. MARIADB SETUP.
 
 - Login to the ec2 Instance.
 - Switch to the root user
